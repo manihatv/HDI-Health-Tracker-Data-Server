@@ -4,4 +4,10 @@ A server developed in Nodejs that helps in storing the users health data to mong
 
 Necessary node modules:
 
-1.body-parser 2.express 3.mongodb 4.mongoose
+1.body-parser 
+
+2.express 
+
+3.mongodb 
+
+4.mongoose
